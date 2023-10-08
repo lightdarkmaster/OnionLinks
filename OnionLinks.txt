@@ -60,3 +60,7 @@ Daixin - http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/
 
 Seized by LE:
 Hive - http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/
+
+
+//addtional Githublinks you must have..
+https://github.com/fastfire/deepdarkCTI/blob/main/phishing.md
